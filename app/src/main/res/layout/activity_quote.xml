@@ -37,7 +37,28 @@
             android:text="@string/next_Quote_Button"
             android:layout_gravity="center_horizontal|bottom"
             android:layout_alignParentBottom="true"
-            android:layout_alignParentStart="true"/>
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/speakerLabel"
+        android:layout_above="@+id/quote_Text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="103dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_speaker"
+        android:id="@+id/showSpeakerButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentStart="true"
+        style="@style/AppTheme"/>
 
 
 </RelativeLayout>

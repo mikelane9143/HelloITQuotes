@@ -7,8 +7,8 @@ android {
         applicationId "com.mikelane9143.helloit"
         minSdkVersion 17
         targetSdkVersion 23
-        versionCode 2
-        versionName '2.0'
+        versionCode 3
+        versionName '2.1'
     }
     buildTypes {
         release {
