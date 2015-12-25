@@ -6,7 +6,7 @@
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
                 android:paddingBottom="@dimen/activity_vertical_margin"
-                tools:context=".QuoteActivity"
+                tools:context=".HelloIt"
                 android:background="#ff51b46d"
                 android:id="@+id/relativeLayout">
 
@@ -47,7 +47,7 @@
         android:id="@+id/speakerLabel"
         android:layout_above="@+id/quote_Text"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="103dp"/>
+        android:layout_marginBottom="80dp"/>
 
     <Button
         android:layout_width="match_parent"

@@ -5,6 +5,6 @@
     <string name="next_Quote_Button">Next Flipping Quote</string>
     <string name="who_Said_Text">Which character said?</string>
     <string name="initial_Quote_Text">Hello, IT</string>
-    <string name="title_activity_quote">QuoteActivity</string>
+    <string name="title_activity_quote">Hello IT</string>
     <string name="show_speaker">Google the Answer</string>
 </resources>
